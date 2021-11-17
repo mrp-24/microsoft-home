@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container-fluid img{
+    width: 10%;
+}
+p .display-6,.siz{
+    font-size: 36px;
+}
+.btn .btn-primary .yel{
+    background-color: yellow;
+} 
+.col-md-6
+.quot{
+    font-size: 28px;
+}
+.section
+.container
+.capt{
+    font-size: 11px;
+    margin-bottom: 10px;
+}
+.section-1 .container .row
+.col-md-2 .list-unstyled
+.capt1, a{
+    text-decoration: none;
+    /* font-size: 11px; */
+    margin-bottom: 10px;
+    color: black;
+    /* opacity: 0.9; */
+}
+
